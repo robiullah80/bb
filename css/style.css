@@ -1,0 +1,75 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: serif;
+	font-size: 14px;
+	line-height: 24px;
+}	
+
+h1 h2 h3 h4 h5 h6{
+font-family: sans-serif;}
+
+.Register{
+	width: 600px;
+	background: #eee;
+	margin: 80px auto;
+	border-radius: 10px;
+	padding: 40px;
+}
+.main-form{
+	width: 100%;
+}
+.main-form .avater{
+	width: 100%;
+	text-align: center;
+
+}
+
+.main-form .avater img{
+	width: 85px;
+	height: 85px;
+	border-radius: 100%;
+	border:1px solid #000000;
+}
+.main-form h2{
+	font-size: 36px;
+	font-weight: 600;
+	line-height: 46px;
+	text-align: center;
+}
+
+.main-form .a{
+	width: 100%;
+	margin: 0px 0px 10px;
+}
+
+.main-form .a label{
+display: block;
+	font-size: 18px;
+	font-weight: 600px;
+
+}
+
+.main-form .a .aa{
+width: 95%;
+	padding: 5px;
+	font-size: 14px;
+	line-height: 24px;
+	color: #fff;
+	border-radius: 10px;
+	border: 1px solid #000;
+
+}
+.main-form .a .dd{
+	padding: 10px 45px;
+	font-size: 14px;
+	color: #fff;
+	background: #000000;
+	border: 1px solid #000;
+}
+.main-form .a .dd:hover{
+	color: #000;
+	background: #fff;
+	cursor: pointer;
